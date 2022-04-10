@@ -1,0 +1,9 @@
+{
+	"ip":"AngkorMCKH.aternos.me",
+	"port": 60278,
+	"name": "afkbotserver",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register phanith0909",
+	"login-cmd":"/login phanith0909"
+}
